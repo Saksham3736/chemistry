@@ -23,25 +23,19 @@
 (i)
 
 $$
-
 \lim_{x\rightarrow 2} \frac{x-2} {x^2 -4}
-
 $$
 
 (ii)
 
 $$
-
 \lim_{t \rightarrow 1} \frac{t^3-1} {4t^3-t-3}
-
 $$
 
 (iii)
 
 $$
-
 \lim_{x\rightarrow \infty} \frac{5x^2-3x}{7x^2+1}
-
 $$
 
 (iv) 
