@@ -63,7 +63,7 @@ The time __T__ of a complete qscillation of a simple pendulum of length _L_ is g
 
 
 $$
-T(_L_) = 2\pi\sqrt\frac{_L_}{_g_}
+T(_L_) = 2 \pi \sqrt \frac {_L_}{_g_}
 $$
 
 
