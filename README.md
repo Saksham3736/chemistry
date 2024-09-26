@@ -1,4 +1,4 @@
-# Mathematics
+# Mathematics Assignment 1
 
 ![](maths.jpeg)
 
