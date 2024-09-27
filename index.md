@@ -99,3 +99,14 @@
 
 (vii) $$\cos{2x}$$
 
+
+### Other Assignments:
+
+|[Assignment 2](https://saksham3736.github.io/mathematics3/)|
+|:---------------------------------------------------------:|
+|[Assignment 3](https://saksham3736.github.io/mathematics2/)|
+
+#### Made by:
+- Name: Saksham
+- Branch: Computer Science Engineering
+- My portfolio: [Saksham](https://saksham3736.github.io)
