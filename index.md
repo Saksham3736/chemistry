@@ -11,7 +11,7 @@
   -  Maclaurin series
 
 | Content Table |
-|:-------:|
+|---------|
 | [Question 1: Indeterminant forms](#question-1) |
 | [Question 2: Taylor's Series](#question-2) |
 | [Question 3: Taylor's series and their polynomials](#question-3) |
