@@ -6,15 +6,16 @@
 
 - Unit 1: __Differential caculus__
   -  Indeterminant forms
-  -  Taylor Series 
+  -  Taylor Series
+  -  Taylor Polynomial 
   -  Maclaurin series
 
 | Content Table |
 |:-------:|
-| [Question 1](#question-1) |
-| [Question 2](#question-2) |
-| [Question 3](#question-3) |
-| [Question 4](#question-4) |
+| [Question 1: Indeterminant forms](#question-1) |
+| [Question 2: Taylor's Series](#question-2) |
+| [Question 3: Taylor's series and their polynomials](#question-3) |
+| [Question 4: Maclaurin series](#question-4) |
 
 ### Question 1:
 
