@@ -1,3 +1,11 @@
-remote_theme: pages-themes/architect@v0.2.0
+# Theme configuration 
+theme: jekyll-theme-cayman
+
+# markdown configuration
+markdown: kramdown
+kramdown: 
+  math_engine: mathjax
+
+# Plugin configuration
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-mermaid
