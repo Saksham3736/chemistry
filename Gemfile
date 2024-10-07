@@ -1,8 +1,5 @@
-# source for ruby gems
-source 'https://rubygems.org/'
+# frozen_string_literal: true
 
-# jekyll gem for site generation
-gem 'jekyll', '~>4.2'
+source "https://rubygems.org"
 
-# Jekyll Mermaid plugin for rendering Mermaid diagrams
-gem 'jekyll-mermaid'
+gemspec
